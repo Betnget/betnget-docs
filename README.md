@@ -8,7 +8,7 @@ Repositório para armazenamento de arquivos de documentação do projeto Betnget
 - Compra
 - Pagmento -> integração com sistema de pagamentos
 - Promoção
-
+- Cupom
 
 ## Requisitos Funcionais
 Esta seção lista os requisitos funcionais do software em questão
